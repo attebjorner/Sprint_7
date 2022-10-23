@@ -4,25 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="533eb119-af25-466d-8430-5a69ff1e87b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="533eb119-af25-466d-8430-5a69ff1e87b3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="develop" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="tik" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d79318f4-068a-4a2a-8be6-fb67cd0e1170" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,9 +54,77 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="ru.yandex.practicum.courier" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CourierRequestWithClientRemovalTest.isCourierNotCreatedWithoutFirstName">
+    <configuration name="CourierRequestWithClientRemovalTest.isCourierNotCreatedWithoutFirstName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7_" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CourierRequestWithClientRemovalTest" />
+      <option name="METHOD_NAME" value="isCourierNotCreatedWithoutFirstName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourierRequestWithoutClientRemovalTest.isCourierNotCreatedWithoutFirstName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7_" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CourierRequestWithoutClientRemovalTest" />
+      <option name="METHOD_NAME" value="isCourierNotCreatedWithoutFirstName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderRequestWithDateFormatTest.isGetAnyOrders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7_" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderRequestWithDateFormatTest" />
+      <option name="METHOD_NAME" value="isGetAnyOrders" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderRequestWithDateFormatTest.isOrderCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7_" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderRequestWithDateFormatTest" />
+      <option name="METHOD_NAME" value="isOrderCreated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderRequestWithoutDateFormatTest.isOrderCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7_" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderRequestWithoutDateFormatTest" />
+      <option name="METHOD_NAME" value="isOrderCreated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CourierRequestWithClientRemovalTest.isCourierNotCreatedWithoutFirstName" />
+        <item itemvalue="JUnit.CourierRequestWithoutClientRemovalTest.isCourierNotCreatedWithoutFirstName" />
+        <item itemvalue="JUnit.OrderRequestWithDateFormatTest.isOrderCreated" />
+        <item itemvalue="JUnit.OrderRequestWithDateFormatTest.isGetAnyOrders" />
+        <item itemvalue="JUnit.OrderRequestWithoutDateFormatTest.isOrderCreated" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,6 +134,56 @@
       <option name="presentableId" value="Default" />
       <updated>1665756580024</updated>
     </task>
+    <task id="LOCAL-00001" summary="абырвалг">
+      <created>1665762432501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665762432501</updated>
+    </task>
+    <task id="LOCAL-00002" summary="абырвалг">
+      <created>1666557995867</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666557995867</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Некоторые тесты падают из-за багов:&#10;при попытке залогинится без пароля получаем 504, а не 400&#10;также отличается сообщение message&#10;в документации не указан точный формат данных для создания заказа, поэтому тест без соблюдения формата будет падать">
+      <created>1666582248933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666582248933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="абырвалг" />
+    <MESSAGE value="Некоторые тесты падают из-за багов:&#10;при попытке залогинится без пароля получаем 504, а не 400&#10;также отличается сообщение message&#10;в документации не указан точный формат данных для создания заказа, поэтому тест без соблюдения формата будет падать" />
+    <option name="LAST_COMMIT_MESSAGE" value="Некоторые тесты падают из-за багов:&#10;при попытке залогинится без пароля получаем 504, а не 400&#10;также отличается сообщение message&#10;в документации не указан точный формат данных для создания заказа, поэтому тест без соблюдения формата будет падать" />
   </component>
 </project>
